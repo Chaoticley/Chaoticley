@@ -20,7 +20,7 @@ I am a CS student, and a self taught developer.  I currently utilize C#, and Vis
         <img src="https://ko-fi.com/img/githubbutton_sm.svg?format=code" alt="ko-fi" style="width: 300px; height: 100px;" />
     </a>
     <a href="https://github.com/Chaoticley/Chaoticley/assets/116920211/29542f08-99cb-4d74-8e56-68836abc3b8a">
-        <img src="https://github.com/Chaoticley/Chaoticley/assets/116920211/29542f08-99cb-4d74-8e56-68836abc3b8a" alt="image" style="width: 300px; height: 100px;" />
+        <img src="https://github.com/Chaoticley/Chaoticley/assets/116920211/29542f08-99cb-4d74-8e56-68836abc3b8a" alt="image" style="width: 150px; height: 150px;" />
     </a>
 </div>
 
