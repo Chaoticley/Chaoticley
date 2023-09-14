@@ -17,4 +17,4 @@ I am a CS student, and a self taught developer.
 
 ## If you'd like more information, or have questions about anything I do, join my Discord server!
 
-## [![discord](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAY0A…cvuOG13/U6UEKx07iq/4Pu4tdBoYoTOYAAAAASUVORK5CYII=)](https://discord.gg/terrariaballsuper)
+## [![discord](https://pbs.twimg.com/media/EjkzQwvWsAEUN3_?format=png&name=small)](https://discord.gg/terrariaballsuper)
