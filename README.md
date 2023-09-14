@@ -13,7 +13,7 @@ I am a CS student, and a self taught developer.
 
 ## If you like what I do, feel free to support me!
 
-## [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X2C6OO1)
+## [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg ?format=png&name=small)](https://ko-fi.com/X8X2C6OO1)
 
 ## If you'd like more information, or have questions about anything I do, join my Discord server!
 
