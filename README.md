@@ -1,6 +1,8 @@
-### Chaoticley
+# Chaoticley
 
-I am a CS student, and a self taught developer.
+I am a CS student, and a self taught developer.  I currently utilize C#, and Visual Studio.
+![C#](https://img.shields.io/badge/C%23-873887?style=for-the-badge&logo=CSharp&logoColor=GREY&logoWidth=20)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-C994F7?style=for-the-badge&logo=visual-studio&logoColor=GREY)
 
 ## Creations:
 
