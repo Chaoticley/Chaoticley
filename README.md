@@ -16,14 +16,13 @@ I am a CS student, and a self taught developer.  I currently utilize C#, and Vis
 ## If you like what I do, feel free to support me!
 
 <div style="display: flex; align-items: center;">
-    <a href="https://ko-fi.com/X8X2C6OO1">
+    <a href="https://ko-fi.com/X8X2C6OO1" style="margin-right: 200px;">
         <img src="https://ko-fi.com/img/githubbutton_sm.svg?format=code" alt="ko-fi" style="width: 300px; height: 100px;" />
     </a>
-    <a href="https://github.com/Chaoticley/Chaoticley/assets/116920211/29542f08-99cb-4d74-8e56-68836abc3b8a">
-        <img src="https://github.com/Chaoticley/Chaoticley/assets/116920211/29542f08-99cb-4d74-8e56-68836abc3b8a" alt="image" style="width: 150px; height: 150px;" />
+    <a href="https://github.com/Chaoticley/Chaoticley/assets/116920211/29542f08-99cb-4d74-8e56-68836abc3b8a" style="margin-right: 20px;">
+        <img src="https://github.com/Chaoticley/Chaoticley/assets/116920211/29542f08-99cb-4d74-8e56-68836abc3b8a" alt="image" style="width: 100px; height: 100px;" />
     </a>
 </div>
-
 
 ## If you'd like more information, or have questions about anything I do, join my Discord server!
 
