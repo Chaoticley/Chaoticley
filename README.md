@@ -5,10 +5,10 @@ I am a CS student, and a self taught developer.
 ## Creations:
 
 ### Terraria/TModLoader:
-- # Terraria Ball Super (in development)
-- # Dragon Ball Terraria: Calamity Addon
-- # Traits Plus
-- # Project Red Mage (in development)
+- ### Terraria Ball Super (in development)
+- ### Dragon Ball Terraria: Calamity Addon
+- ### Traits Plus
+- ### Project Red Mage (in development)
 
 ## If you like what I do, feel free to support me!
 
