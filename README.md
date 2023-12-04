@@ -28,8 +28,6 @@ I am a CS student, and a self taught developer.  I currently utilize C#, and Vis
 
 ## [<img src="https://pbs.twimg.com/media/EjkzQwvWsAEUN3_?format=png&name=small" alt="discord" width="400" height="125"/>](https://discord.gg/terrariaballsuper)
 
-## GitHub Stats:
-
 [![GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chaoticley&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Language](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chaoticley&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
