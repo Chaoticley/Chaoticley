@@ -2,15 +2,19 @@
 
 I am a CS student, and a self taught developer.  In my projects, I've utilized:
 
+### Languages:
 - ![C#](https://img.shields.io/badge/C%23-873887?style=for-the-badge&logo=CSharp&logoColor=WHITE&logoWidth=20)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
+### Environments:
 - ![Visual Studio](https://img.shields.io/badge/Visual_Studio-C994F7?style=for-the-badge&logo=visual-studio&logoColor=WHITE)
 - ![Visual_Studio_Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 
+### Operating Systems
 - ![Windows](https://img.shields.io/badge/Windows%20CMD-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
 - ![Linux](https://img.shields.io/badge/Linux%20CMD-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 
+### Game Engines
 - ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
 
 ## Notable Creations:
