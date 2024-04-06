@@ -4,7 +4,14 @@ I am a CS student, and a self taught developer.  In my projects, I've utilized:
 
 ### Languages:
 - ![C#](https://img.shields.io/badge/C%23-873887?style=for-the-badge&logo=CSharp&logoColor=WHITE&logoWidth=20)
+- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ### Environments:
 - ![Visual Studio](https://img.shields.io/badge/Visual_Studio-C994F7?style=for-the-badge&logo=visual-studio&logoColor=WHITE)
@@ -27,6 +34,7 @@ I am a CS student, and a self taught developer.  In my projects, I've utilized:
 
 ## If you like what I do, feel free to support me!
 
+![Kofi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
 <div style="display: flex; align-items: center;">
     <a href="https://ko-fi.com/X8X2C6OO1">
         <img src="https://ko-fi.com/img/githubbutton_sm.svg?format=code" alt="ko-fi" style="width: 300px; height: 100px;" />
