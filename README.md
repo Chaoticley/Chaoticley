@@ -34,7 +34,6 @@ I am a CS student, and a self taught developer.  In my projects, I've utilized:
 
 ## If you like what I do, feel free to support me!
 
-![Kofi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
 <div style="display: flex; align-items: center;">
     <a href="https://ko-fi.com/X8X2C6OO1">
         <img src="https://ko-fi.com/img/githubbutton_sm.svg?format=code" alt="ko-fi" style="width: 300px; height: 100px;" />
