@@ -30,7 +30,6 @@ I am a CS student, and a self taught developer.  In my projects, I've utilized:
 - #### Terraria Ball Super (in development)
 - #### Dragon Ball Terraria: Calamity Addon
 - #### Traits Plus
-- #### Project Red Mage (in development)
 
 ## If you like what I do, feel free to support me!
 
@@ -45,6 +44,6 @@ I am a CS student, and a self taught developer.  In my projects, I've utilized:
 
 ## If you'd like more information, or have questions about anything I do, join my Discord server!
 
-## [<img src="https://pbs.twimg.com/media/EjkzQwvWsAEUN3_?format=png&name=small" alt="discord" width="400" height="125"/>](https://discord.gg/terrariaballsuper)
+## [<img src="https://pbs.twimg.com/media/EjkzQwvWsAEUN3_?format=png&name=small" alt="discord" width="400" height="125"/>](https://discord.gg/superstudios)
 
 [![GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chaoticley&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
